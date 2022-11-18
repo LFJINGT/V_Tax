@@ -29,4 +29,4 @@
 
 
 
-> 本代码参考了[这里](https://github.com/Strikealpaca/V_Tax)的代码，根据自己的需求进行了修改，感谢原作者的贡献
+> 本代码参考了[这里](https://github.com/Strikealpaca/V_Tax)的代码，根据自己的需求进行了修改，感谢原作者[Strikealpaca](https://github.com/Strikealpaca)的贡献
